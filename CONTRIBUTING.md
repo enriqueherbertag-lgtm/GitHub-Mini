@@ -1,41 +1,67 @@
-# Guía para Contribuir a CORPUS
+# Contribuir a GitHub-Mini
 
-¡Gracias por tu interés en contribuir a CORPUS!
+Gracias por tu interés en contribuir a GitHub-Mini. Este proyecto se construye colectivamente, y toda ayuda es bienvenida.
 
-## Tabla de Contenidos
-- [Código de Conducta](#código-de-conducta)
-- [¿Cómo Contribuir?](#cómo-contribuir)
-- [Reportar Bugs](#reportar-bugs)
-- [Sugerir Mejoras](#sugerir-mejoras)
-- [Contribuir con Código](#contribuir-con-código)
-- [Estándares de Código](#estándares-de-código)
-- [Documentación](#documentación)
-- [Simulaciones](#simulaciones)
-- [Hardware](#hardware)
+##  Filosofía de contribución
 
-## Código de Conducta
+- **Las interacciones pertenecen a la comunidad.** Todo lo que aportes —código, documentación, debates— queda bajo licencia abierta (CC BY-NC 4.0 + cláusula comercial).
+- **Calidad sobre cantidad.** Preferimos contribuciones pensadas, alineadas con el espíritu del proyecto.
+- **Debate abierto.** Las decisiones importantes se discuten primero, se implementan después.
 
-Este proyecto se rige por nuestro [Código de Conducta](CODE_OF_CONDUCT.md). Al participar, esperamos que lo mantengas.
+##  Reportar un problema o sugerir una mejora
 
-## ¿Cómo Contribuir?
+1. Revisá los [issues existentes](https://github.com/enriqueherbertag-lgtm/GitHub-Mini/issues) para evitar duplicados.
+2. Si no existe, abrí un nuevo issue:
+   - Usá el template correspondiente (bug / mejora / debate).
+   - Describí el problema o sugerencia con claridad.
+   - Si aplica, incluí pasos para reproducir, capturas o referencias.
 
-### Reportar Bugs
-- Usa el [rastreador de issues de GitHub](https://github.com/enriqueherbertag-lgtm/Corpus/issues)
-- Verifica si el bug ya ha sido reportado
-- Incluye título descriptivo, pasos para reproducir, comportamiento esperado vs actual
-- Especifica la versión del archivo o subsistema afectado
+##  Participar en debates
 
-### Sugerir Mejoras
-- Abre un Issue con la etiqueta `enhancement`
-- Describe el problema que resuelve y por qué sería útil
-- Si es posible, propone una implementación aproximada
-- Incluye referencias técnicas si las tienes
+Los debates son el corazón de GitHub-Mini. Podés:
 
-### Contribuir con Código
+- Abrir un nuevo debate para proponer una idea, una pregunta o una dirección técnica.
+- Comentar en debates existentes con respeto y fundamento.
+- Votar (cuando la plataforma lo permita) para mostrar apoyo a una propuesta.
 
-1. **Fork** el repositorio
-2. **Crea una rama**:
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   # o
-   git checkout -b fix/correccion-bug
+##  Contribuir con código
+
+### Requisitos previos
+
+- Conocimiento del stack propuesto: React, Python (FastAPI), PostgreSQL.
+- Autenticación con GitHub OAuth.
+
+### Pasos para contribuir
+
+1. **Forkeá el repositorio** y cloná tu copia.
+2. **Creá una rama** con nombre descriptivo: `feature/nueva-funcionalidad` o `fix/error-x`.
+3. **Desarrollá** siguiendo los estándares de código que se irán definiendo.
+4. **Probá localmente** antes de enviar.
+5. **Abrí un Pull Request (PR)** contra la rama `main`.
+   - Describí qué cambios hacés y por qué.
+   - Si resuelve un issue, vinculalo con `Closes #número`.
+   - Esperá revisión.
+
+### Revisiones
+
+Los PRs serán revisados por mantenedores. Puede haber solicitudes de cambio. El objetivo es mantener calidad y coherencia con la visión del proyecto.
+
+##  Contribuir con documentación
+
+La documentación vive en este repositorio. Podés:
+
+- Corregir errores ortográficos o de formato.
+- Mejorar explicaciones existentes.
+- Agregar secciones faltantes (arquitectura, despliegue, etc.).
+
+##  Código de conducta
+
+Al participar, aceptás nuestro [Código de Conducta](CODE_OF_CONDUCT.md). Espacios seguros y respetuosos son prioritarios.
+
+##  Contacto
+
+Para dudas previas a contribuir, podés abrir un issue con etiqueta `question` o escribir a eaguayo@migst.cl.
+
+---
+
+**Gracias por ayudar a construir una red social con propósito.**
