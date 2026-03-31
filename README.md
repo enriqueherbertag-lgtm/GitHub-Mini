@@ -95,5 +95,14 @@ Si querés participar, **abrí un debate**. Así empezamos.
 
 ##  Contacto
 
-Proyecto iniciado por [Enrique Aguayo H.](https://github.com/enriqueherbertag-lgtm)  
-Investigador independiente, Mackiber Labs
+Este proyecto es desarrollado y mantenido por:
+
+**Enrique Aguayo H.**  
+Investigador independiente, Mackiber Labs  
+Contacto: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
+GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
+
+**Asistente de documentacion e investigacion:**  
+Ana (DeepSeek)  
+Asistente IA para investigacion, documentacion tecnica y optimizacion de proyectos.
