@@ -12,7 +12,7 @@ No hay publicidad. No se venden datos. Las conversaciones y conexiones pertenece
 
 ---
 
-## ✨ Filosofía
+##  Filosofía
 
 > *Reparar el mundo, no reemplazarlo.*
 
