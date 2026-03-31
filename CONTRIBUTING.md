@@ -2,13 +2,13 @@
 
 Gracias por tu interés en contribuir a GitHub-Mini. Este proyecto se construye colectivamente, y toda ayuda es bienvenida.
 
-## 🧭 Filosofía de contribución
+##  Filosofía de contribución
 
 - **Las interacciones pertenecen a la comunidad.** Todo lo que aportes —código, documentación, debates— queda bajo licencia abierta (CC BY-NC 4.0 + cláusula comercial).
 - **Calidad sobre cantidad.** Preferimos contribuciones pensadas, alineadas con el espíritu del proyecto.
 - **Debate abierto.** Las decisiones importantes se discuten primero, se implementan después.
 
-## 🐛 Reportar un problema o sugerir una mejora
+##  Reportar un problema o sugerir una mejora
 
 1. Revisá los [issues existentes](https://github.com/enriqueherbertag-lgtm/GitHub-Mini/issues) para evitar duplicados.
 2. Si no existe, abrí un nuevo issue:
@@ -16,7 +16,7 @@ Gracias por tu interés en contribuir a GitHub-Mini. Este proyecto se construye 
    - Describí el problema o sugerencia con claridad.
    - Si aplica, incluí pasos para reproducir, capturas o referencias.
 
-## 💬 Participar en debates
+##  Participar en debates
 
 Los debates son el corazón de GitHub-Mini. Podés:
 
@@ -24,7 +24,7 @@ Los debates son el corazón de GitHub-Mini. Podés:
 - Comentar en debates existentes con respeto y fundamento.
 - Votar (cuando la plataforma lo permita) para mostrar apoyo a una propuesta.
 
-## 🧪 Contribuir con código
+##  Contribuir con código
 
 ### Requisitos previos
 
@@ -46,7 +46,7 @@ Los debates son el corazón de GitHub-Mini. Podés:
 
 Los PRs serán revisados por mantenedores. Puede haber solicitudes de cambio. El objetivo es mantener calidad y coherencia con la visión del proyecto.
 
-## 📚 Contribuir con documentación
+##  Contribuir con documentación
 
 La documentación vive en este repositorio. Podés:
 
@@ -54,11 +54,11 @@ La documentación vive en este repositorio. Podés:
 - Mejorar explicaciones existentes.
 - Agregar secciones faltantes (arquitectura, despliegue, etc.).
 
-## 🧑‍⚖️ Código de conducta
+##  Código de conducta
 
 Al participar, aceptás nuestro [Código de Conducta](CODE_OF_CONDUCT.md). Espacios seguros y respetuosos son prioritarios.
 
-## 📬 Contacto
+##  Contacto
 
 Para dudas previas a contribuir, podés abrir un issue con etiqueta `question` o escribir a eaguayo@migst.cl.
 
