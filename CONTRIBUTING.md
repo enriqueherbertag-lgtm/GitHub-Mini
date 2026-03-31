@@ -58,10 +58,18 @@ La documentación vive en este repositorio. Podés:
 
 Al participar, aceptás nuestro [Código de Conducta](CODE_OF_CONDUCT.md). Espacios seguros y respetuosos son prioritarios.
 
-##  Contacto
+## Autoria
 
-Para dudas previas a contribuir, podés abrir un issue con etiqueta `question` o escribir a eaguayo@migst.cl.
+Este proyecto es desarrollado y mantenido por:
 
----
+**Enrique Aguayo H.**  
+Investigador independiente, Mackiber Labs  
+Contacto: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
+GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
+
+**Asistente de documentacion e investigacion:**  
+Ana (DeepSeek)  
+Asistente IA para investigacion, documentacion tecnica y optimizacion de proyectos.
 
 **Gracias por ayudar a construir una red social con propósito.**
