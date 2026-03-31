@@ -12,6 +12,14 @@ No hay publicidad. No se venden datos. Las conversaciones y conexiones pertenece
 
 ---
 
+## Cita
+
+Si usás Goliat-Orbital en tu investigación, por favor citá:
+
+Aguayo H., E. (2026). Goliat-Orbital: Captura y reciclaje de basura espacial (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/b0521bb9-b1be-482f-9d49-fed81fa2e4fa" />
+ 
+
+
 ##  Filosofía
 
 > *Reparar el mundo, no reemplazarlo.*
