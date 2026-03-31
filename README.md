@@ -1,5 +1,9 @@
 # GitHub-Mini
 
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 **La red social de creadores técnicos que no te trata como producto.**
 
 GitHub-Mini es un espacio independiente donde investigadores, desarrolladores, inventores y estudiantes se conectan por afinidad real, no por algoritmos de venta. Autenticás con tu cuenta de GitHub, y desde el primer día participás con ideas, preguntas o proyectos en debate.
