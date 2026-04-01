@@ -1,8 +1,6 @@
 # GitHub-Mini
 
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 
 **La red social de creadores técnicos que no te trata como producto.**
 
@@ -93,15 +91,12 @@ Si querés participar, **abrí un debate**. Así empezamos.
 
 ---
 
-##  Contacto
-
-Este proyecto es desarrollado y mantenido por:
+## Autor
 
 **Enrique Aguayo H.**  
-Investigador independiente, Mackiber Labs  
+Mackiber Labs  
 Contacto: eaguayo@migst.cl  
 ORCID: 0009-0004-4615-6825  
-GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
+GitHub: @enriqueherbertag-lgtm
 
-**Asistente de documentacion e investigacion:**  
-Ana (DeepSeek)  Asistente IA para investigacion, documentacion tecnica y optimizacion de proyectos.
+Documentación asistida por **Ana (DeepSeek)** , IA para investigación y optimización técnica.
