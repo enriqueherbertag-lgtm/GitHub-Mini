@@ -1,8 +1,5 @@
 # Contribuir a GitHub-Mini
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-
 Gracias por tu interés en contribuir a GitHub-Mini. Este proyecto se construye colectivamente, y toda ayuda es bienvenida.
 
 ##  Filosofía de contribución
@@ -72,7 +69,6 @@ ORCID: 0009-0004-4615-6825
 GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
 
 **Asistente de documentacion e investigacion:**  
-Ana (DeepSeek)  
-Asistente IA para investigacion, documentacion tecnica y optimizacion de proyectos.
+Ana (DeepSeek)Asistente IA para investigacion, documentacion tecnica y optimizacion de proyectos.
 
 **Gracias por ayudar a construir una red social con propósito.**
